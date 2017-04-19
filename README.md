@@ -1,4 +1,7 @@
-# test coverage for  [eslint-plugin-mocha (v4.9.0)](https://github.com/lo1tuma/eslint-plugin-mocha)  [![npm package](https://img.shields.io/npm/v/npmtest-eslint-plugin-mocha.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-eslint-plugin-mocha) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-eslint-plugin-mocha.svg)](https://travis-ci.org/npmtest/node-npmtest-eslint-plugin-mocha)
+# npmtest-eslint-plugin-mocha
+
+#### basic test coverage for  [eslint-plugin-mocha (v4.9.0)](https://github.com/lo1tuma/eslint-plugin-mocha)  [![npm package](https://img.shields.io/npm/v/npmtest-eslint-plugin-mocha.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-eslint-plugin-mocha) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-eslint-plugin-mocha.svg)](https://travis-ci.org/npmtest/node-npmtest-eslint-plugin-mocha)
+
 #### Eslint rules for mocha.
 
 [![NPM](https://nodei.co/npm/eslint-plugin-mocha.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/eslint-plugin-mocha)
